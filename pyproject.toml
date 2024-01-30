@@ -7,7 +7,7 @@ write_to = "mu_sqlalchemy_crud_helpers/_version.py"
 
 [project]
 name = "mu_sqlalchemy_crud_helpers"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
     { name="Alain PEREZ RIAÑO", email="aperez@mondragon.edu" },
 ]
