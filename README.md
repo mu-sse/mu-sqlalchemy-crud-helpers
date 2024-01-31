@@ -1,6 +1,10 @@
-# Mondragon Unibertsitatea - Sqlalchemy CRUD helpers
+# Mondragon Unibertsitatea - Sqlalchemy CRUD helpers (Discontinued)
 
 A set of helpers for CRUD operations with SQLAlchemy developed by Mondragon Unibertsitatea.
+
+## Discontinued
+
+Moved to [MUMiChasPy](https://github.com/mu-sse/MUMiChasPy).
 
 ## Developers
 
